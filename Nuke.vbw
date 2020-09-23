@@ -1,0 +1,12 @@
+frmMain = 66, 66, 604, 288, , 44, 44, 582, 266, C
+frmAddFile = 0, 0, 0, 0, C, 66, 66, 611, 255, C
+modMP3Header = 0, 0, 0, 0, C
+modWavHeader = 44, 58, 641, 514, C
+modTaskBar = 66, 87, 663, 543, C
+frmCredits = 22, 22, 567, 211, C, 0, 0, 545, 189, C
+frmPopUp = 0, 0, 0, 0, C, 88, 88, 633, 277, C
+frmOptions = 0, 0, 545, 189, C, 22, 22, 567, 211, C
+frmID3Tag = 22, 22, 567, 209, C, 0, 0, 545, 189, C
+frmAddDir = 0, 0, 0, 0, C, 44, 44, 589, 233, C
+modCloseBtn = 88, 116, 685, 572, C
+frmSkin = 0, 0, 545, 189, C, 88, 88, 633, 277, C
